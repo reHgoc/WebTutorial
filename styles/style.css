@@ -28,3 +28,6 @@ p, li{
     letter-spacing: 1px;
     color: #FFFFFF;
 }
+li{
+  list-style-type: none;
+}
